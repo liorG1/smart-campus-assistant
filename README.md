@@ -181,4 +181,4 @@ Project documentation is located in the docs folder:
 
 # Author
 
-Lior Gaton
+Lior Getahun
