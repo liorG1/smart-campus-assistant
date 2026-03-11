@@ -169,6 +169,16 @@ The document includes:
 
 ---
 
+## Documentation
+
+Project documentation is located in the docs folder:
+
+- SRS – System Requirements Specification
+- Experiments – AI evaluation and testing
+- Project Management – backlog, sprint, retrospective
+
+---
+
 # Author
 
 Lior Gaton
