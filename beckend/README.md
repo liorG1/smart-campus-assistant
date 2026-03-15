@@ -48,7 +48,8 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 
-Fill in `OPENAI_API_KEY` inside `.env`.
+Create a .env file in the backend folder based on .env.example
+and fill in your OpenAI API key.
 
 ## Run the API
 ```bash
